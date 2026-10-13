@@ -1,0 +1,10 @@
+title: Demo Phân Tích Dữ Liệu
+author: Hades
+logo: ""
+
+execute:
+  execute_notebooks: auto # Tự động chạy lại notebook nếu có thay đổi
+
+html:
+  use_issues_button: true
+  use_repository_button: true
